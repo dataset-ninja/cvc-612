@@ -10,8 +10,8 @@ The use of this database is completely restricted for research and educational p
 
 If you use this database for your experiments please include the following reference:
 
-'''
-Bernal, J., Sánchez, F. J., Fernández-Esparrach, G., Gil, D., Rodríguez, C., & Vilariño, F. (2015). WM-DOVA maps for accurate polyp highlighting in colonoscopy: Validation vs. saliency maps from physicians. Computerized Medical Imaging and Graphics, 43, 99-111 .
-'''
+```
+Bernal, J., Sánchez, F. J., Fernández-Esparrach, G., Gil, D., Rodríguez, C., & Vilariño, F. (2015). WM-DOVA maps for accurate polyp highlighting in colonoscopy: Validation vs. saliency maps from physicians. Computerized Medical Imaging and Graphics, 43, 99-111.
+```
 
 [Source](https://polyp.grand-challenge.org/CVCClinicDB/)
