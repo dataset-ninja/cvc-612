@@ -1,6 +1,6 @@
 Dataset **CVC-ClinicDB** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzMwMTdfQ1ZDLUNsaW5pY0RCL2N2Yy1jbGluaWNkYi1EYXRhc2V0TmluamEudGFyIiwgInNpZyI6ICJEcXY3YUZkc2g4OUE1NGNQM01HUXdmQmhBMFltd2ozclZkY3lxK0dUMDNVPSJ9)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogInMzOi8vc3VwZXJ2aXNlbHktZGF0YXNldHMvMzAxN19DVkMtQ2xpbmljREIvY3ZjLWNsaW5pY2RiLURhdGFzZXROaW5qYS50YXIiLCAic2lnIjogImhjRG4xT1dLNWMycFRFMXYvTXVkZWh4YUxKYVA3anlUaGNCekt2eUZwaDA9In0=?response-content-disposition=attachment%3B%20filename%3D%22cvc-clinicdb-DatasetNinja.tar%22)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
